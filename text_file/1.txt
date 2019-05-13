@@ -1,0 +1,9 @@
+keyword   None
+hashtag   ['mtvlafandombtsarmy', 'premiosmtvmiaw']
+text   BTS    LOVE      ARMY 
+ARMY  LOVE        BTS 
+
+#MTVLAFANDOMBTSARMY  #PremiosMTVMIAW
+@BTS_twt https://t.co/mPSxBtt0HM
+picture   1_1.jpg
+result   suit_none

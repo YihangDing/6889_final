@@ -1,0 +1,43 @@
+*{background:#FFFFFF}
+a{
+    text-decoration: none;
+}
+.display {
+	margin-left:10px;
+}
+.header {
+	width: 450px;
+	margin: 0 auto;
+}
+.header img{
+	width:450px;
+	margin: 0 auto;
+}
+.banner {
+	margin-top: 20px;
+}
+.button {
+	width: 200px;
+	margin: 0 auto;
+}
+.counter {
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.single{
+	margin-top: 5px;
+	background:#3FCDFD;
+}
+
+.single_image{
+	width: 350px;
+	margin-left: 50px;
+}
+.single_image img{
+	width: 350px;
+}
+.margin{
+	margin-top: 5px;
+}
